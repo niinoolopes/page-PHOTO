@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    display: inline-block;
+}
+nav a{
+    text-decoration: none;
+    color: #000;
+}
+nav a:hover{
+    text-decoration: underline;
+    color: #000;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
